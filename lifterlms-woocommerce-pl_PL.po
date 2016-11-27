@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LifterLMS WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-25 13:26+0000\n"
+"PO-Revision-Date: 2016-11-25 13:26+0000\n"
+"Last-Translator: Monika Kociuba <kamil.kociuba@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class.llms.settings.woocommerce.php:40
+msgid "WooCommerce Settings"
+msgstr "Ustawienia Woocommerce"
+
+#: includes/class.llms.settings.woocommerce.php:47
+msgid "Use WooCommerce to sell LifterLMS Courses and Memberships"
+msgstr "Użyj Woocommerce aby sprzedawać Kursy i Członkostwa LifterLMS"
+
+#: includes/class.llms.settings.woocommerce.php:51
+msgid "Enable / Disable"
+msgstr "Włącz / Wyłącz"
+
+#: includes/class.llms.settings.woocommerce.php:58
+msgid "Customers will be enrolled when a WooCommerce Order reaches this status"
+msgstr "Klienci będą zapisywanie gdy zamówienie WooCommerce osiągnie ten stan"
+
+#: includes/class.llms.settings.woocommerce.php:63
+msgid "Order Enrollment Status"
+msgstr "Status zamówienia dający autozapis"
+
+#: includes/class.llms.settings.woocommerce.php:68
+msgid ""
+"Customers will be unenrolled when a WooCommerce Order reaches any of these "
+"statuses"
+msgstr ""
+"Klienci zostaną wyrejestrowani gdy zamówienie WooCommerce osiągnie jeden z "
+"podanych stanów"
+
+#: includes/class.llms.settings.woocommerce.php:73
+msgid "Order Unenrollment Status(es)"
+msgstr "Status zamówienia nie dający autozapisu"
+
+#: includes/class.llms.settings.woocommerce.php:82
+msgid ""
+"Customers will be enrolled when a WooCommerce Subscription reaches this "
+"status"
+msgstr ""
+"Klienci zostaną zapisani gdy subskrypcja WooCommerce osiągnie ten status"
+
+#: includes/class.llms.settings.woocommerce.php:87
+msgid "Subscription Enrollment Status"
+msgstr "Status transakcji dających autozapis"
+
+#: includes/class.llms.settings.woocommerce.php:92
+msgid ""
+"Customers will be unenrolled when a WooCommerce Subscription reaches any of "
+"these statuses"
+msgstr ""
+"Klienci zostaną wyrejestrowani gdy subskrypcja  WooCommerce osiągnie jeden z "
+"tych stanów"
+
+#: includes/class.llms.settings.woocommerce.php:97
+msgid "Subscription Unenrollment Status(es)"
+msgstr "Status transakcji nie dających autozapisu"
+
+#: includes/class.llms.settings.woocommerce.php:112
+msgid "Activation Key"
+msgstr "Klucz aktywacji"
+
+#: includes/class.llms.settings.woocommerce.php:113
+msgid ""
+"Required for support and automated plugin updates. Located on your <a "
+"href=\"https://lifterlms.com/my-account/\" target=\"_blank\">LifterLMS "
+"Account Settings page</a>."
+msgstr ""
+"Wymagane dla wsparcia i automatycznych aktualizacji wtyczek.  Znajdziesz go "
+"na <a href=\"https://lifterlms.com/my-account/\" target=\"_blank\">Strona z "
+"ustawieniami LifterLMS</a>."
+
+#: includes/class.llms.settings.woocommerce.php:125
+#, php-format
+msgid "Install the %s to start receiving automatic updates for this extension."
+msgstr ""
+"Zainstaluj %s, aby zacząć otrzymywać automatyczne aktualizacje dla tego "
+"rozszerzenia."
+
+#: includes/class.llms.metabox.wc.product.php:20
+msgid "Product Options"
+msgstr "Opcje produktu"
+
+#: includes/class.llms.metabox.wc.product.php:42
+msgid "General"
+msgstr "Ogólne"
+
+#: includes/class.llms.metabox.wc.product.php:48
+msgid "Select a product"
+msgstr "Wybierz produkt"
+
+#: includes/class.llms.metabox.wc.product.php:51
+#, php-format
+msgid ""
+"When an order for the selected WooCommerce product is completed, the "
+"customer will be automatically enrolled in this %s"
+msgstr ""
+"Gdy zamówienie dla wybranego produktu WooCommerce jest zakończone, klient "
+"zostanie automatycznie zapisany w tym %s"
+
+#: includes/class.llms.metabox.wc.product.php:54
+msgid "WooCommerce Product"
+msgstr "Produkt Woocommerca"
+
+#: includes/class.llms.integration.woocommerce.php:24
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#: includes/class.llms.integration.woocommerce.php:126
+msgid "Available to all customers"
+msgstr "Dostępne dla wszystkich klientów"
+
+#: includes/class.llms.integration.woocommerce.php:136
+#, php-format
+msgid ""
+"Select a LifterLMS membership which a customer must belong to before they "
+"can purchase this product. %sLearn More%s."
+msgstr ""
+"Wybierz Członkostwo LifterLMS, które klient musi mieć wykupione zanim zakupi "
+"ten produkt. %sDowiedz się więcej%s."
+
+#: includes/class.llms.integration.woocommerce.php:138 
+#: includes/class.llms.integration.woocommerce.php:482
+msgid "Members Only"
+msgstr "Tylko dla członków"
+
+#: includes/class.llms.integration.woocommerce.php:204
+#, php-format
+msgid "Customer was enrolled in %s"
+msgstr "Klient był zapisany do %s"
+
+#: includes/class.llms.integration.woocommerce.php:252
+#, php-format
+msgid "Customer was unenrolled from %s"
+msgstr "Klient został wypisany z %s"
+
+#: includes/class.llms.integration.woocommerce.php:290
+msgid "Courses"
+msgstr "Moje kursy"
+
+#: includes/class.llms.integration.woocommerce.php:291
+msgid "Memberships"
+msgstr "Moje członkostwa"
+
+#: includes/class.llms.integration.woocommerce.php:292
+msgid "Achievements"
+msgstr "Moje osiągnięcia"
+
+#: includes/class.llms.integration.woocommerce.php:293
+msgid "Certificates"
+msgstr "Moje certyfikaty"
+
+#. Name of the plugin
+msgid "LifterLMS WooCommerce"
+msgstr "LifterLMS Woocommerce"
+
+#. Description of the plugin
+msgid "Sell LifterLMS Courses and Memberships using WooCommerce"
+msgstr "Sprzedawaj kursy i członkostwa LifterLMS używając Woocommerce"
+
+#. URI of the plugin
+msgid "https://lifterlms.com/"
+msgstr "https://lifterlms.com/"
+
+#. Author of the plugin
+msgid "Thomas Patrick Levy"
+msgstr "Thomas Patrick Levy"
+
+#. Author URI of the plugin
+msgid "https://lifterlms.com"
+msgstr "https://lifterlms.com"
